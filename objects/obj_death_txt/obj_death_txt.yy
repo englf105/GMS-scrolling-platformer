@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_barrier",
+  "%Name":"obj_death_txt",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_barrier",
+  "name":"obj_death_txt",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_barrier",
-    "path":"sprites/spr_barrier/spr_barrier.yy",
+    "name":"spr_death",
+    "path":"sprites/spr_death/spr_death.yy",
   },
   "spriteMaskId":null,
   "visible":true,
